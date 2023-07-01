@@ -1,2 +1,4 @@
 Provider "aws_Vpc" "Hdfc Vpc"
 instance type = t2 micro
+this is what i want to know 
+how it works
