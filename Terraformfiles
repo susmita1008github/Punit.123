@@ -1,0 +1,2 @@
+Provider "aws_Vpc" "Hdfc Vpc"
+instance type = t2 micro
